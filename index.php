@@ -16,8 +16,8 @@
             <img src="assets/ifto-logo.png" alt="ifto-logo">
 
             <!-- TÍTULO -->
-            <h1>Esse é meu primeiro projeto WEB</h1>
-            <p>Me chamo Aryelson aluno do 3° período</p>
+            <h1>JESUS ESTÁ VOLTANDO WEB</h1>
+            <p>MATHEUS 24:13</p>
         </header>
 
         <!-- MENU DE NAVEGAÇÃO -->
@@ -28,7 +28,15 @@
             </ul>
 
         </nav>
+            <main>
+                <section class="imagem-cristo">
+                    <h2>Mensagem</h2>
 
+                    <img src="assets/Cristo.jpg" alt="Imagem de Jesus Cristo">
+
+                    <p>Jesus está voltando</p>
+                </section>
+            </main>
 
 
     </div>
